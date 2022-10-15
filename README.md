@@ -2,19 +2,22 @@
 
 # To-Do List
 
-AUFGABEN
-Learningcard erstellen, aktualisieren, löschen                            X
-Learningcards ausgeben (einzeln)                                          X
-Learningcards ausgeben (alle)                                             |
-Abgabetermin (Deadline) für Learningcards erstellen                       |
-Learningcards in Sets hinzufügen                                          |
-Wiederholungszyklus bei einer Learningcard hinzufügen                     |
-Single Choice Antworten                                                   |
-Mutple Choice Antworten                                                   |
-Learningscards beantworten                                                |
+AUFGABEN </br>
+Learningcard erstellen, aktualisieren, löschen                            X </br>
+Learningcards ausgeben (einzeln)                                          X </br>
+Learningcards ausgeben (alle)                                             | </br>
+Abgabetermin (Deadline) für Learningcards erstellen                       | </br>
+Learningcards in Sets hinzufügen                                          | </br>
+Wiederholungszyklus bei einer Learningcard hinzufügen                     | </br>
+Single Choice Antworten                                                   | </br>
+Mutple Choice Antworten                                                   | </br>
+Learningscards beantworten                                                | </br>
 
-FEEDBACK
-Quellcode von uns überprüft jeder nochmal um Feedback zum Code zu geben   |   
+FEEDBACK </br>
+Quellcode von uns überprüft jeder nochmal um Feedback zum Code zu geben   | </br> 
 Endkontrolle von Kristof´s Kollege                                        |
+
+</br>
+| nicht erledigt ---- X erledigt
 
 
