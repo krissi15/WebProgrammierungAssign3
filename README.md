@@ -9,15 +9,15 @@ Learningcards ausgeben (alle)                                             | </br
 Abgabetermin (Deadline) für Learningcards erstellen                       | </br>
 Learningcards in Sets hinzufügen                                          | </br>
 Wiederholungszyklus bei einer Learningcard hinzufügen                     | </br>
-Single Choice Antworten                                                   | </br>
+Single Choice Antworten                                                   X </br>
 Mutple Choice Antworten                                                   | </br>
-Learningscards beantworten                                                | </br>
+Learningscards beantworten                                                ≈ </br>
 
 FEEDBACK </br>
 Quellcode von uns überprüft jeder nochmal um Feedback zum Code zu geben   | </br> 
 Endkontrolle von Kristof´s Kollege                                        |
 
 </br>
-| nicht erledigt ---- X erledigt
+| nicht erledigt ---- X erledigt ----- ≈ in Arbeit
 
 
