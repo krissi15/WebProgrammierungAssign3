@@ -10,7 +10,7 @@ Abgabetermin (Deadline) für Learningcards erstellen                       | </b
 Learningcards in Sets hinzufügen                                          | </br>
 Wiederholungszyklus bei einer Learningcard hinzufügen                     | </br>
 Single Choice Antworten                                                   X </br>
-Mutple Choice Antworten                                                   ≈ </br>
+Mutple Choice Antworten                                                   X </br>
 Learningscards beantworten                                                ≈ </br>
 
 FEEDBACK </br>
