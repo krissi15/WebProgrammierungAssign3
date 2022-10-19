@@ -5,7 +5,7 @@
 AUFGABEN </br>
 Learningcard erstellen, aktualisieren, löschen                            X </br>
 Learningcards ausgeben (einzeln)                                          X </br>
-Learningcards ausgeben (alle)                                             ≈ </br>
+Learningcards ausgeben (alle)                                             X </br>
 Abgabetermin (Deadline) für Learningcards erstellen                       | </br>
 Learningcards in Sets hinzufügen                                          | </br>
 Wiederholungszyklus bei einer Learningcard hinzufügen                     | </br>
