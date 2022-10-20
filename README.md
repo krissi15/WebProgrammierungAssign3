@@ -7,7 +7,7 @@ Learningcard erstellen, aktualisieren, löschen                            X </b
 Learningcards ausgeben (einzeln)                                          X </br>
 Learningcards ausgeben (alle)                                             X </br>
 Abgabetermin (Deadline) für Learningcards erstellen                       | </br>
-Learningcards in Sets hinzufügen                                          | </br>
+Learningcards in Sets hinzufügen, aktualisieren, löschen                  X </br>
 Wiederholungszyklus bei einer Learningcard hinzufügen                     | </br>
 Single Choice Antworten                                                   X </br>
 Mutple Choice Antworten                                                   X </br>
