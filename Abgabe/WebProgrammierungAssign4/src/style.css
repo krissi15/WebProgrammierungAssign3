@@ -1,0 +1,57 @@
+body{
+    border:solid 1px;
+    height: 95vh;
+    width: auto;
+    max-height: 1080px;
+    max-width: 1920px;
+}
+h1{
+    font-family: Calibri;
+    text-align:center;
+}
+#blogs{
+    border: solid 1px;
+    border-radius: 25px;
+    height:58%;
+    width:99%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+div.eintrag{
+    border: solid 1px black;
+}
+tr,td{
+    width: 100%;
+}
+h4{
+    margin-left: 0.5%;
+}
+#title{
+    margin-left: 0.5%;
+    text-align:center;
+}
+#date{
+    text-align:center;
+}
+#author{
+    text-align:center;
+}
+#text{
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin-left: 0.5%;
+
+}
+#createBlog{
+    height: 30%;
+    width: 99%;
+}
+#button{
+    padding: 5px 25px;
+    text-align: center;
+    bottom: 0;
+    float: right;
+    margin-right: 0.5%;
+}

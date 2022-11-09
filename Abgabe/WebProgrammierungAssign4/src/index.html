@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="MiniBlog">
+    <meta name="author" content="Kristof Otto">
+    <title>My Blog</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>MiniBlog</h1>
+
+    <div id="blogs">
+        <table id="main_tab"></table>
+    </div>
+
+    <div id="createBlog">
+        <h4>Neuen Eintrag verfassen</h4>
+        <input id="title" type="text" name="title" placeholder="Titel">
+        <input id="author" type="text" name="autor" placeholder="Autor">
+        <input id="date" type="date" name="date" placeholder="Datum">
+        <br><br>
+        <textarea id="text" name="text" placeholder="Text" rows="6"></textarea>
+        <br>
+        <button type="button" id="button" width="50" onclick="createBlogpost() ">Anlegen</button>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
